@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CISELNIK>
+    <DATUM>2014-09-18T22:01:53.027+02:00</DATUM>
+    <POPIS></POPIS>
+    <KLASICKA>
+        <ZAZNAM PORADOVE_CISLO="1">
+            <POZNAMKA>dfgdf</POZNAMKA>
+            <DRUH_DREVINY_ID>6</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="2">
+            <POZNAMKA>dfgdf</POZNAMKA>
+            <DRUH_DREVINY_ID>2</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="3">
+            <POZNAMKA>dfgdf</POZNAMKA>
+            <DRUH_DREVINY_ID>4</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+    </KLASICKA>
+    <TEPLICKA/>
+</CISELNIK>

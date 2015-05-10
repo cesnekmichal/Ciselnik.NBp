@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CISELNIK>
+    <DATUM>2012-10-30T00:00:00+01:00</DATUM>
+    <POPIS>114B5A</POPIS>
+    <KLASICKA>
+        <ZAZNAM PORADOVE_CISLO="50001">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50002">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50003">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50004">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50005">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50006">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50007">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50008">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50009">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50010">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50011">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50012">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50013">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50014">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50015">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>26</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50016">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>26</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50017">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50018">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50019">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>26</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50020">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50021">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50022">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>29</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50023">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50024">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50025">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50026">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>9</DELKA>
+            <PRUMER>19</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50027">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50028">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>11</DELKA>
+            <PRUMER>15</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50029">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>9</DELKA>
+            <PRUMER>16</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50030">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>33</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50031">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>30</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50032">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>29</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50033">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50034">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>35</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50035">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>34</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50036">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>29</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50037">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50038">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>6</DELKA>
+            <PRUMER>15</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50039">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>7</DELKA>
+            <PRUMER>15</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50040">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50041">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50042">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50043">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50044">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>13</DELKA>
+            <PRUMER>15</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50045">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50046">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>11</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50047">
+            <DRUH_DREVINY_ID>19</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50048">
+            <DRUH_DREVINY_ID>19</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50049">
+            <DRUH_DREVINY_ID>19</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50050">
+            <DRUH_DREVINY_ID>8</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50051">
+            <DRUH_DREVINY_ID>8</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50052">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50053">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>9</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50054">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>11</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50055">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>9</DELKA>
+            <PRUMER>19</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50056">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50057">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50058">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50059">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50060">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>6</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50061">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>19</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50062">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>12</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50063">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50064">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>15</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50065">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>8</DELKA>
+            <PRUMER>18</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50066">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>29</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50067">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>26</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50068">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50069">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>15</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50070">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>13</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50071">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>30</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50072">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>15</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50073">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50074">
+            <DRUH_DREVINY_ID>24</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50075">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>29</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50076">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50077">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>9</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50078">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50079">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50080">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50081">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50082">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50083">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50084">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>13</DELKA>
+            <PRUMER>13</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50085">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>14</DELKA>
+            <PRUMER>16</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50086">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>11</DELKA>
+            <PRUMER>13</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50087">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>14</DELKA>
+            <PRUMER>15</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50088">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>11</DELKA>
+            <PRUMER>13</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50089">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>32</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50090">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>30</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50091">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>12</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50092">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>26</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50093">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50094">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50095">
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50096">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>31</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50097">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>13</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50098">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>11</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50099">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50100">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>31</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50101">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50102">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50103">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>13</DELKA>
+            <PRUMER>15</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50104">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50105">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50106">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50107">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>8</DELKA>
+            <PRUMER>19</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50108">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>31</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50109">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50110">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50111">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50112">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50113">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50114">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50115">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50116">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50117">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>19</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50118">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50119">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50120">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50121">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50122">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50123">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50124">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50125">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50126">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>30</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50127">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50128">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50129">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50130">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>34</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50131">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>12</DELKA>
+            <PRUMER>16</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50132">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50133">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>15</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50134">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>12</DELKA>
+            <PRUMER>18</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50135">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>29</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50136">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50137">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50138">
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50139">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>36</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50140">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>30</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50141">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>13</DELKA>
+            <PRUMER>19</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50142">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>12</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50143">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>27</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50144">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50145">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>3</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50146">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>26</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50147">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>9</DELKA>
+            <PRUMER>17</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50148">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>9</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50149">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50150">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>12</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50151">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>11</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50152">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>8</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50153">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>13</DELKA>
+            <PRUMER>14</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50154">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>33</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50155">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>30</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50156">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50157">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50158">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50159">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>15</DELKA>
+            <PRUMER>18</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50160">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>26</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50161">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>11</DELKA>
+            <PRUMER>19</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50162">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50163">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50164">
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>15</DELKA>
+            <PRUMER>13</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50165">
+            <DRUH_DREVINY_ID>24</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50166">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>21</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50167">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>29</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50168">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>8</DELKA>
+            <PRUMER>18</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50169">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>10</DELKA>
+            <PRUMER>18</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50170">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>9</DELKA>
+            <PRUMER>16</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50171">
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50172">
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>23</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50173">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50174">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50175">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>28</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50176">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>26</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50177">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>20</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50178">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>22</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50179">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>true</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>43</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50180">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>35</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50181">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>25</PRUMER>
+        </ZAZNAM>
+        <ZAZNAM PORADOVE_CISLO="50182">
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <ODDENKOVY_KUS>false</ODDENKOVY_KUS>
+            <DELKA>4</DELKA>
+            <PRUMER>24</PRUMER>
+        </ZAZNAM>
+    </KLASICKA>
+    <TEPLICKA>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>18</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>1</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>2</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>2</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>0</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>6</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>8</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>16</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>1</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>11</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>0</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>1</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>3</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>0</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>1</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>1</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>0</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>1</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>8</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>2</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>0</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>0</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>0</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>2</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>2</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>2</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>0</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>13</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>0</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>1</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>3</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>0</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>4</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>16</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>16</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>0</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>7</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>5</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>5</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>14</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>5</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>2</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>1</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>9</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>6</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>20</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>0</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>0</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>2</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>0</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>3</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>3</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>4</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>0</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>25</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>0</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>0</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>0</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>0</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>0</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>3</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>1</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>0</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>24</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>0</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>0</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>0</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>0</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>2</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>1</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>2</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>0</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+        <ZAZNAM>
+            <DRUH_DREVINY_ID>19</DRUH_DREVINY_ID>
+            <POCET_ODDENKOVYCH_00>0</POCET_ODDENKOVYCH_00>
+            <POCET_ODDENKOVYCH_0>0</POCET_ODDENKOVYCH_0>
+            <POCET_ODDENKOVYCH_1>0</POCET_ODDENKOVYCH_1>
+            <POCET_ODDENKOVYCH_2>0</POCET_ODDENKOVYCH_2>
+            <POCET_ODDENKOVYCH_3>0</POCET_ODDENKOVYCH_3>
+            <POCET_ODDENKOVYCH_4>0</POCET_ODDENKOVYCH_4>
+            <POCET_OSTATNICH_00>0</POCET_OSTATNICH_00>
+            <POCET_OSTATNICH_0>2</POCET_OSTATNICH_0>
+            <POCET_OSTATNICH_1>2</POCET_OSTATNICH_1>
+            <POCET_OSTATNICH_2>0</POCET_OSTATNICH_2>
+            <POCET_OSTATNICH_3>0</POCET_OSTATNICH_3>
+            <POCET_OSTATNICH_4>0</POCET_OSTATNICH_4>
+        </ZAZNAM>
+    </TEPLICKA>
+</CISELNIK>
